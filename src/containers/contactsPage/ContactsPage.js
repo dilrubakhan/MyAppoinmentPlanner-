@@ -26,7 +26,9 @@ export const ContactsPage = () => {
       </section>
       <hr />
       <section>
+        
         <h2>Contacts</h2>
+        <h2>This is a second test</h2>
       </section>
     </div>
   );
